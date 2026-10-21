@@ -6,7 +6,7 @@ J’ai écrit plusieurs analyses sur l’économie et l’environnement qui ont 
 - [Il tetto al contante nell’Unione europea](https://www.openpolis.it/il-tetto-al-contante-nellunione-europea/) (plafond des paiements en espèces dans les pays européens)
 - [Il Pnrr e la sanità territoriale](https://www.openpolis.it/wp-content/uploads/2023/05/Pnrr_sanita_territoriale_mappe_regionali_.pdf) (l’impact du Pnrr sur la santé locale)
 - [Come funziona la produzione di energia dall’idrogeno](https://www.openpolis.it/parole/come-funziona-la-produzione-di-energia-dallidrogeno/) (production d’énergie à partir du hydrogène)
-- [Sono ancora troppe le persone disabili a rischio di povertà](https://www.openpolis.it/sono-ancora-troppe-le-persone-disabili-a-rischio-di-poverta/) (les personnes en situation de handicap qui sont au dessous du risque de pauvreté)
+- [Sono ancora troppe le persone disabili a rischio di povertà](https://www.openpolis.it/sono-ancora-troppe-le-persone-disabili-a-rischio-di-poverta/) (les personnes en situation de handicap qui sont exposées au risque de pauvreté)
 
 J’ai été invitée à participer à certaines des émissions de radio les plus écoutées d’Italie:
 - [Openpolis numeri alla mano - Radio Radicale](https://www.radioradicale.it/soggetti/255887/martina-lovat)
