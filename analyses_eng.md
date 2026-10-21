@@ -2,9 +2,9 @@
 I have written several analysis related to economics and the environment that have been cited by national press (such as [Il Corriere della Sera](https://www.corriere.it/buone-notizie/22_ottobre_22/quando-essere-disabili-porta-anche-poverta-rischio-su-cinque-f75c8f4e-4cf1-11ed-9a08-0dfd5a07d7da.shtml#:~:text=%C2%ABLe%20persone%20con,3%20per%20cento%C2%BB.), [il Manifesto](https://ilmanifesto.it/fondi-europei-per-la-transizione-energetica-scatta-la-missione-trasparenza) and [SkyTG24](https://www.openpolis.it/rassegnastampa/lutilizzo-del-denaro-contante-in-europa/)). Some of my most-cited works include:
 - [L'impatto dell'efficienza energetica degli edifici](https://www.openpolis.it/esercizi/perche-parlare-di-efficienza-energetica/) (energy efficiency of Italian private buildings, [presented at the “Spazio Europa”](https://www.youtube.com/live/hTSauVmP8Jo?t=7574s) of the European Commission in Rome)
 - [In Italia circa 1 abitazione su 4 non è permanentemente occupata](https://www.openpolis.it/in-italia-circa-1-abitazione-su-4-non-e-permanentemente-occupata/) (occupancy rate of houses in Italy)
-- [Chi beneficerà dei fondi Pnrr per le green communities](https://www.openpolis.it/chi-beneficera-dei-fondi-pnrr-per-le-green-communities/) (Nprr funds for green communities)
+- [Chi beneficerà dei fondi Pnrr per le green communities](https://www.openpolis.it/chi-beneficera-dei-fondi-pnrr-per-le-green-communities/) (Nrrp funds for green communities)
 - [Il tetto al contante nell’Unione europea](https://www.openpolis.it/il-tetto-al-contante-nellunione-europea/) (cash limit in the European countries)
-- [Il Pnrr e la sanità territoriale](https://www.openpolis.it/wp-content/uploads/2023/05/Pnrr_sanita_territoriale_mappe_regionali_.pdf) (the impact of Nprr on healthcare at a local level)
+- [Il Pnrr e la sanità territoriale](https://www.openpolis.it/wp-content/uploads/2023/05/Pnrr_sanita_territoriale_mappe_regionali_.pdf) (the impact of Nrrp on healthcare at a local level)
 - [Come funziona la produzione di energia dall’idrogeno](https://www.openpolis.it/parole/come-funziona-la-produzione-di-energia-dallidrogeno/) (hydrogen energy production)
 - [Sono ancora troppe le persone disabili a rischio di povertà](https://www.openpolis.it/sono-ancora-troppe-le-persone-disabili-a-rischio-di-poverta/) (disable people and poverty risks)
 
